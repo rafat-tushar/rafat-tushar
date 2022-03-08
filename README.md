@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafat-tushar
+- 👋 Hi, I’m @Tushar
 - 👀 I’m interested in Python development
 - 🌱 I’m currently learning Reinforcement Learning
 - 💞️ I’m looking to collaborate on Public and Open Source projects
